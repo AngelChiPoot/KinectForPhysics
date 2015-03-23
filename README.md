@@ -1,0 +1,2 @@
+# KinectForPhysics
+KinectForPhysics is an augmented reality system for teaching Euclidean vectors in physics and mathematics. The goal of this pedagogical tool is to facilitate user’s understanding of physical concepts, such as magnitude, direction, and orientation, together with basic vector-related operations like addition, subtraction and cross product. The system merges a real world scenario with virtual elements controlled with a practical body-interactive interface.
